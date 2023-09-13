@@ -33,7 +33,7 @@ namespace trabajo1
             string valor = valores[random.Next(valores.Length)];
             string palo = palos[random.Next(palos.Length)];
 
-            return (valor+"-"+palo);
+            return (valor+"---"+palo);
         }
 
         private void Salir_btn_Click(object sender, EventArgs e)

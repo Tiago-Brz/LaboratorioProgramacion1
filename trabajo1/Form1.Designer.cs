@@ -41,7 +41,7 @@
             this.Mezclar_btn.FlatAppearance.BorderSize = 3;
             this.Mezclar_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Mezclar_btn.ForeColor = System.Drawing.Color.White;
-            this.Mezclar_btn.Location = new System.Drawing.Point(115, 28);
+            this.Mezclar_btn.Location = new System.Drawing.Point(131, 28);
             this.Mezclar_btn.Name = "Mezclar_btn";
             this.Mezclar_btn.Size = new System.Drawing.Size(106, 29);
             this.Mezclar_btn.TabIndex = 0;
